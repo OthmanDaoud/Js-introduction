@@ -1,7 +1,7 @@
 # Js-introduction
 
 # What did I do in this repo?
-I did 6 exrsicese to learn more about JavaScript.
+I did 6 exrsiceses to learn more about JavaScript.
 
 ## Ex1: 
 Evaluate 11 diffrent equation using Cosole.log
